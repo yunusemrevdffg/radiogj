@@ -1,0 +1,23 @@
+{
+  "name": "shoutcast-web-radio",
+  "version": "1.0.0",
+  "description": "Ein einfacher Node.js-Webserver für Shoutcast-Streams.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunusemrevdffg/radiogj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yunusemrevdffg/radiogj/issues"
+  },
+  "homepage": "https://github.com/yunusemrevdffg/radiogj#readme"
+}
